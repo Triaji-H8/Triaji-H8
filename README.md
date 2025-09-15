@@ -1,9 +1,11 @@
-# Hello World, I'm "Jack" Triaji!
-### I'm an Urban Planner turned into **Data Scientist** because I can 💪
-People call me Jack because I do all trades. Tell me your request and I will grant it somehow. <br/>
-<br/>
-👩🏻‍🎓 Studied [Urban and Regional Planning](https://teknik.ub.ac.id/category/urban-and-regional-planning-pwk/?lang=en) at Brawijaya University, Indonesia<br/>
-📈 Graduated from [Hacktiv8's](https://www.hacktiv8.com/data-science) intensive **Full-Time Data Science** program with final score of **93.02%**<br/>
+# Hello World, I'm "Jack" Triaji!  
+### Urban Planner turned **Data Scientist** because I can 💪  
+
+People call me Jack — short for “Jack of all trades”. I like to take messy problems and *witchcraft your data* into insights and solutions.  
+
+🎓 Studied [Urban and Regional Planning](https://teknik.ub.ac.id/category/urban-and-regional-planning-pwk/?lang=en) at Brawijaya University, Indonesia  
+📊 Graduated from [Hacktiv8's](https://www.hacktiv8.com/data-science) intensive **Full-Time Data Science** program with a final score of **93.02%**.  
+➡️ That’s my *training accuracy*. Help me discover my *validation accuracy* by letting me contribute to your project!
 
 ## 🌍 Where to find me
 <p>
