@@ -13,6 +13,9 @@ People call me Jack because I do all trades. Tell me your request and I will gra
   <a href="mailto:work.zhakybaridwant@gmail.com" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
+    <a target="_blank" href="https://huggingface.co/BesottenJenny">
+    <img src="https://img.shields.io/badge/HuggingFace-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black" alt="huggingface"/>
+  </a>
 </p>
 
 ## 💻 Tech Stack
